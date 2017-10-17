@@ -1,7 +1,8 @@
 # Bitfinex API Client
-	A python client for Bitfinex API
 
-## TODO
+A python client for Bitfinex API
+
+## Goal
 
 - Implement all API calls that Bitfinex make available.
 
