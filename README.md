@@ -24,13 +24,13 @@ A python client for Bitfinex API
 1. Create an issue and discuss.
 1. Fork it.
 1. Create a feature branch containing only your fix or feature.
-1. Add tests!!!! Features or fixes that don't have good tests won't be accepted.
+1. Features or fixes that don't have good tests won't be accepted.
 1. Create a pull request.
 
 ## References
 
 - [https://www.bitfinex.com/pages/api](https://www.bitfinex.com/pages/api)
-- [https://community.bitfinex.com/showwiki.php?title=Sample+API+Code](https://community.bitfinex.com/showwiki.php?title=Sample+API+Code)
+- [https://github.com/streblo/bitfinex-python-client](https://github.com/streblo/bitfinex-python-client)
 - [https://gist.github.com/jordanbaucke/5812039](https://gist.github.com/jordanbaucke/5812039)
 
 ## Licence
