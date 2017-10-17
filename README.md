@@ -9,13 +9,13 @@ A python client for Bitfinex API
 ## Usage
 
 ```
->>> import api.client
+>>> import bitfinex.client
 
->>> public = api.client.Public()
+>>> public = bitfinex.client.Public()
 >>> print(public.ticker()['last_trade'])
 620.23
 
->>> private_client = api.client.Private(key='xxx', secret='xxx')
+>>> private_client = bitfinex.client.Private(key='xxx', secret='xxx')
 >>> print(private_client.new_order(amount=10.0, price=610.00))
 <order_id>
 ```
