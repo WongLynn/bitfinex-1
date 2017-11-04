@@ -37,6 +37,4 @@ A python client for Bitfinex API
 
 The MIT License (MIT)
 
-Copyright (c) 2014-2015 Scott Barr
-
 See [LICENSE.md](LICENSE.md)
